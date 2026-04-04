@@ -1,0 +1,5 @@
+id="r82kd1"
+User-agent: *
+Allow: /
+
+Sitemap: https://techievest.com/sitemap.xml
