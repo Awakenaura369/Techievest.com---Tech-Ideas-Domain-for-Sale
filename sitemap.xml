@@ -1,12 +1,4 @@
-id="s93ks2"
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+User-agent: *
+Allow: /
 
-  <url>
-    <loc>https://techievest.com/</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-</urlset>
+Sitemap: https://techievest.com/sitemap.xml
