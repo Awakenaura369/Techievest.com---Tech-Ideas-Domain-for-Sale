@@ -284,7 +284,7 @@
     margin-top: 4px;
   }
 
-  /* AI TOOL */
+  /* SECTION LABELS */
   .section-label {
     display: flex;
     align-items: center;
@@ -491,7 +491,7 @@
 
   .feat-desc { font-size: 14px; color: var(--muted); line-height: 1.6; }
 
-  /* BLOG */
+  /* BLOG SECTION */
   .blog-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -505,9 +505,11 @@
     border-radius: 12px;
     padding: 28px;
     transition: all 0.3s;
+    text-decoration: none;
+    display: block;
   }
 
-  .blog-card:hover { border-color: rgba(110,231,247,0.2); }
+  .blog-card:hover { border-color: rgba(110,231,247,0.4); transform: translateY(-3px); }
 
   .blog-cat {
     font-size: 10px;
@@ -608,7 +610,6 @@
     justify-content: center;
     border-radius: 12px;
     overflow: hidden;
-    /* border: 1px dashed var(--border); */ /* شيل التعليق باش تشوف البلاصة في dev */
   }
 
   /* FOOTER */
@@ -634,7 +635,6 @@
   }
 </style>
 
-<!-- Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -647,13 +647,11 @@
 </head>
 
 <body>
-<!-- Adsterra Social Bar -->
 <script src="https://rungbeacon.com/4f/82/8a/4f828ab09c54ddaa0b87df1da1eaf6e1.js"></script>
 
 <div class="blob blob-1"></div>
 <div class="blob blob-2"></div>
 
-<!-- NAV -->
 <nav>
   <div class="nav-logo">Techie<span>Vest</span></div>
   <a href="https://sedo.com/search/details/?domain=techievest.com" class="nav-cta" target="_blank" rel="noopener">
@@ -661,7 +659,6 @@
   </a>
 </nav>
 
-<!-- HERO -->
 <div class="wrapper">
   <section class="hero">
     <div class="hero-badge">Premium Domain For Sale</div>
@@ -677,7 +674,6 @@
     </div>
   </section>
 
-  <!-- STATS -->
   <div class="stats">
     <div class="stat">
       <div class="stat-num">11</div>
@@ -697,11 +693,10 @@
     </div>
   </div>
 
-  <!-- AI TOOL -->
   <section class="section" id="tool">
     <div class="section-label">AI-Powered</div>
     <h2>Generate Your Next Startup Idea</h2>
-    <p class="desc">Describe a niche or industry and get a concrete, actionable startup idea — powered by Claude AI.</p>
+    <p class="desc">Describe a niche or industry and get a concrete, actionable startup idea — powered by Llama 3 AI.</p>
 
     <div class="idea-gen">
       <div class="tags-row">
@@ -736,7 +731,6 @@
     </div>
   </section>
 
-  <!-- FEATURES -->
   <section class="section">
     <div class="section-label">Why TechieVest</div>
     <h2>A Domain That Works For You</h2>
@@ -764,58 +758,35 @@
     </div>
   </section>
 
-  <!-- AD SLOT 1: After AI Tool -->
   <div class="ad-slot" id="ad-slot-1">
     <script>
-      atOptions = {
-        'key' : '90c5da4b46352654565c36e20a424ee7',
-        'format' : 'iframe',
-        'height' : 90,
-        'width' : 728,
-        'params' : {}
-      };
+      atOptions = { 'key' : '90c5da4b46352654565c36e20a424ee7', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {} };
     </script>
     <script src="https://rungbeacon.com/90c5da4b46352654565c36e20a424ee7/invoke.js"></script>
   </div>
 
-  <!-- BLOG -->
-  <section class="section">
-    <div class="section-label">Insights</div>
-    <h2>Tech Startup Intelligence</h2>
-    <div class="blog-grid">
+  <section class="section" id="blog">
+    <div class="section-label">Latest Tech Insights</div>
+    <h2>Startup Intelligence & Trends</h2>
+    <div class="blog-grid" id="latest-posts">
+      <a href="/blog/latest.html" class="blog-card">
+        <div class="blog-cat">New Insights</div>
+        <div class="blog-title">Future of AI Domain Investing</div>
+        <div class="blog-excerpt">Discover why premium .com domains like TechieVest are the foundation of next-gen digital brands...</div>
+      </a>
       <div class="blog-card">
         <div class="blog-cat">Startup Strategy</div>
         <div class="blog-title">Best Tech Startup Ideas in 2026</div>
-        <div class="blog-excerpt">The most promising opportunities now center on AI tools, vertical SaaS, and automation services. Founders are moving fast with lean MVPs and shipping first.</div>
-      </div>
-      <div class="blog-card">
-        <div class="blog-cat">Domain Investing</div>
-        <div class="blog-title">Why Brandable .com Domains Still Win</div>
-        <div class="blog-excerpt">In an age of social media and AI, a strong .com domain remains a brand's most durable digital asset — driving trust, recall, and organic reach.</div>
+        <div class="blog-excerpt">The most promising opportunities now center on AI tools, vertical SaaS, and automation services...</div>
       </div>
       <div class="blog-card">
         <div class="blog-cat">SaaS Playbook</div>
         <div class="blog-title">How to Launch a SaaS in 30 Days</div>
-        <div class="blog-excerpt">Identify a tight problem, validate demand with a waitlist, and ship your MVP before perfecting it. Speed is your biggest competitive advantage.</div>
+        <div class="blog-excerpt">Identify a tight problem, validate demand with a waitlist, and ship your MVP before perfecting it...</div>
       </div>
     </div>
   </section>
 
-  <!-- AD SLOT 2: After Blog -->
-  <div class="ad-slot" id="ad-slot-2">
-    <script>
-      atOptions = {
-        'key' : '90c5da4b46352654565c36e20a424ee7',
-        'format' : 'iframe',
-        'height' : 90,
-        'width' : 728,
-        'params' : {}
-      };
-    </script>
-    <script src="https://rungbeacon.com/90c5da4b46352654565c36e20a424ee7/invoke.js"></script>
-  </div>
-
-  <!-- CTA -->
   <div class="cta-block">
     <div class="cta-glow"></div>
     <h2>Own TechieVest.com Today</h2>
@@ -835,7 +806,7 @@
 
 <footer>
   <p>© 2026 TechieVest.com · Premium Domain For Sale · Listed on <a href="https://sedo.com" target="_blank" style="color:var(--accent);text-decoration:none;">Sedo</a></p>
-  <p style="margin-top:10px; font-size:12px;">
+  <p style="margin-top:15px; font-size:12px;">
     <a href="privacy-policy.html" style="color:var(--muted);text-decoration:none;margin:0 10px;">Privacy Policy</a>·
     <a href="terms.html" style="color:var(--muted);text-decoration:none;margin:0 10px;">Terms of Use</a>·
     <a href="contact.html" style="color:var(--muted);text-decoration:none;margin:0 10px;">Contact</a>
@@ -850,10 +821,7 @@
 
   async function generateIdea() {
     const niche = document.getElementById('niche').value.trim();
-    if (!niche) {
-      document.getElementById('niche').focus();
-      return;
-    }
+    if (!niche) { document.getElementById('niche').focus(); return; }
 
     const btn = document.getElementById('genBtn');
     const btnText = document.getElementById('btnText');
@@ -868,50 +836,25 @@
 
     try {
       const GROQ_KEY = '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';
-
       const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${GROQ_KEY}`
-        },
+        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${GROQ_KEY}` },
         body: JSON.stringify({
           model: 'llama-3.3-70b-versatile',
-          max_tokens: 1000,
           messages: [{
             role: 'user',
-            content: `Generate a concrete, actionable tech startup idea for the niche: "${niche}".
-
-Format your response as:
-💡 IDEA: [One-line concept]
-
-🎯 PROBLEM: [The specific pain point being solved]
-
-📦 PRODUCT: [What you actually build]
-
-💰 REVENUE MODEL: [How it makes money]
-
-🚀 WHY NOW: [Why this is the right time to build this]
-
-Keep it sharp, specific, and realistic. No fluff.`
+            content: `Generate a concrete startup idea for: "${niche}". Format: 💡 IDEA, 🎯 PROBLEM, 📦 PRODUCT, 💰 REVENUE, 🚀 WHY NOW.`
           }]
         })
       });
-
       const data = await response.json();
-      const text = data.choices?.[0]?.message?.content || 'Could not generate idea. Please try again.';
-
-      resultText.textContent = text;
+      resultText.textContent = data.choices?.[0]?.message?.content || 'Error generating idea.';
       resultBox.classList.add('visible');
-
     } catch (err) {
-      resultText.textContent = '⚠️ Error reaching AI. Please check your connection and try again.';
+      resultText.textContent = '⚠️ Connection error. Try again.';
       resultBox.classList.add('visible');
     }
-
-    btn.disabled = false;
-    btnText.textContent = 'Generate Idea';
-    spinner.style.display = 'none';
+    btn.disabled = false; btnText.textContent = 'Generate Idea'; spinner.style.display = 'none';
   }
 </script>
 
