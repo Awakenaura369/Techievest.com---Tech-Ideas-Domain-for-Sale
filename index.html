@@ -782,7 +782,9 @@
   <section class="section">
     <div class="section-label">Insights</div>
     <h2>Tech Startup Intelligence</h2>
-    <div class="blog-grid">
+    <p class="desc">Fresh articles generated daily on tech, SaaS, and domain investing.</p>
+    <div class="blog-grid" id="blogGrid">
+      <!-- Static fallback -->
       <div class="blog-card">
         <div class="blog-cat">Startup Strategy</div>
         <div class="blog-title">Best Tech Startup Ideas in 2026</div>
@@ -913,6 +915,39 @@ Keep it sharp, specific, and realistic. No fluff.`
     btnText.textContent = 'Generate Idea';
     spinner.style.display = 'none';
   }
+</script>
+
+<script>
+  // تحميل المقالات من blog/index.json
+  async function loadBlogPosts() {
+    try {
+      const res = await fetch('blog/index.json');
+      if (!res.ok) return; // إذا ما كانش الملف نبقاو مع الستاتيك
+      const posts = await res.json();
+      if (!posts || posts.length === 0) return;
+
+      const grid = document.getElementById('blogGrid');
+      grid.innerHTML = ''; // نمسحو الستاتيك
+
+      posts.slice(0, 6).forEach(post => {
+        const card = document.createElement('div');
+        card.className = 'blog-card';
+        card.style.cursor = 'pointer';
+        card.innerHTML = `
+          <div class="blog-cat">Tech Insights · ${post.date}</div>
+          <div class="blog-title">${post.title}</div>
+          <div class="blog-excerpt">${post.excerpt}</div>
+          <div style="margin-top:14px;font-size:13px;color:var(--accent);">Read More →</div>
+        `;
+        card.onclick = () => window.location.href = post.file;
+        grid.appendChild(card);
+      });
+    } catch(e) {
+      // نبقاو مع الستاتيك fallback
+    }
+  }
+
+  loadBlogPosts();
 </script>
 
 </body>
