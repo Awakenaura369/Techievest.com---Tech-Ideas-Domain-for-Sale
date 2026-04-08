@@ -72,7 +72,7 @@ def generate_article():
     Requirements:
     - Use <h2> and <h3> for subheadings.
     - Style it with a dark theme (background: #050810, text: #e2e8f0).
-    - Include a link back to 'https://techievest.com' calling it 'Premium Domain For Sale'.
+    - Include a link back to 'https://techievest.netlify.app' calling it 'Premium Domain For Sale'.
     - Keep it SEO-friendly (600+ words).
     - Return ONLY the HTML body content, no <html>, <head>, or <body> tags.
     """
@@ -188,7 +188,7 @@ def update_index_json(filename, topic, excerpt, date_str):
         json.dump(posts, f, ensure_ascii=False, indent=2)
 
 def update_sitemap(new_file):
-    url = f"https://techievest.com/{new_file}"
+    url = f"https://techievest.netlify.app/{new_file}"
     if not os.path.exists(SITEMAP_FILE):
         with open(SITEMAP_FILE, "w") as f:
             f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n</urlset>')
@@ -213,7 +213,7 @@ def post_to_twitter(topic, excerpt, filename):
             access_token_secret=os.getenv("X_ACCESS_SECRET")
         )
 
-        post_url = f"https://techievest.com/{filename}"
+        post_url = f"https://techievest.netlify.app/{filename}"
         tweet = f"🚀 {topic}\n\n{excerpt[:200]}...\n\n🔗 {post_url}\n\n#TechStartup #SaaS #AI #DomainInvesting"
 
         # Twitter max 280 chars
