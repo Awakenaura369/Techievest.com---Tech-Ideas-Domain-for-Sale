@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://techievest.com/</loc>
+    <loc>https://techievest.netlify.app/</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <url><loc>https://techievest.com/blog/post-20260406-1802.html</loc><lastmod>2026-04-06</lastmod></url>
-  <url><loc>https://techievest.com/blog/post-20260406-1848.html</loc><lastmod>2026-04-06</lastmod></url>
-  <url><loc>https://techievest.com/blog/post-20260407-0102.html</loc><lastmod>2026-04-07</lastmod></url>
-  <url><loc>https://techievest.com/blog/post-20260407-0134.html</loc><lastmod>2026-04-07</lastmod></url>
-  <url><loc>https://techievest.com/blog/post-20260407-0211.html</loc><lastmod>2026-04-07</lastmod></url>
-  <url><loc>https://techievest.com/blog/post-20260408-0128.html</loc><lastmod>2026-04-08</lastmod></url>
-  <url><loc>https://techievest.com/blog/post-20260408-0151.html</loc><lastmod>2026-04-08</lastmod></url>
-  <url><loc>https://techievest.com/blog/post-20260408-0211.html</loc><lastmod>2026-04-08</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260406-1802.html</loc><lastmod>2026-04-06</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260406-1848.html</loc><lastmod>2026-04-06</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260407-0102.html</loc><lastmod>2026-04-07</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260407-0134.html</loc><lastmod>2026-04-07</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260407-0211.html</loc><lastmod>2026-04-07</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260408-0128.html</loc><lastmod>2026-04-08</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260408-0151.html</loc><lastmod>2026-04-08</lastmod></url>
+  <url><loc>https://techievest.netlify.app/blog/post-20260408-0211.html</loc><lastmod>2026-04-08</lastmod></url>
 </urlset>
