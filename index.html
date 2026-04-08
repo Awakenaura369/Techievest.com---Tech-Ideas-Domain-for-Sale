@@ -1,19 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-
-  <meta name="google-site-verification" content="NRFuXJuXD65LVvkF_CX5Ws4dM_cooSkjPsLvqcssvtI" />
-  
-<meta name="monetag" content="437deb0692ac85d6398674ae06011a32">
-  
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>TechieVest.com – Premium Tech Domain For Sale</title>
 <meta name="description" content="TechieVest.com is a premium brandable domain for tech investors, SaaS startups, and innovation platforms. Get AI-powered startup ideas and own this domain today.">
 <meta name="keywords" content="tech startup ideas, saas ideas, tech domain for sale, startup name ideas, premium domain">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://techievest.com/">
+<link rel="canonical" href="https://techievest.netlify.app/">
 <meta property="og:title" content="TechieVest.com – Premium Tech Domain For Sale">
 <meta property="og:description" content="AI-powered startup idea generator + premium domain for your next venture.">
 <meta property="og:type" content="website">
@@ -646,7 +640,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "TechieVest",
-  "url": "https://techievest.com",
+  "url": "https://techievest.netlify.app",
   "description": "Premium tech domain and AI-powered startup idea generator."
 }
 </script>
@@ -677,7 +671,6 @@
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
         Buy on Sedo
       </a>
-      <a href="#tool" class="btn-ghost">Try AI Generator ↓</a>
     </div>
   </section>
 
@@ -700,45 +693,6 @@
       <div class="stat-label">Niche Ready</div>
     </div>
   </div>
-
-  <!-- AI TOOL -->
-  <section class="section" id="tool">
-    <div class="section-label">AI-Powered</div>
-    <h2>Generate Your Next Startup Idea</h2>
-    <p class="desc">Describe a niche or industry and get a concrete, actionable startup idea — powered by Claude AI.</p>
-
-    <div class="idea-gen">
-      <div class="tags-row">
-        <span class="tag" onclick="fillTag('AI & Automation')">AI & Automation</span>
-        <span class="tag" onclick="fillTag('HealthTech')">HealthTech</span>
-        <span class="tag" onclick="fillTag('FinTech')">FinTech</span>
-        <span class="tag" onclick="fillTag('EdTech')">EdTech</span>
-        <span class="tag" onclick="fillTag('SaaS Tools')">SaaS Tools</span>
-        <span class="tag" onclick="fillTag('Creator Economy')">Creator Economy</span>
-        <span class="tag" onclick="fillTag('Crypto & Web3')">Crypto & Web3</span>
-        <span class="tag" onclick="fillTag('Climate Tech')">Climate Tech</span>
-      </div>
-
-      <div class="input-row">
-        <input
-          class="idea-input"
-          type="text"
-          id="niche"
-          placeholder="e.g. AI tools for freelancers, fitness apps, B2B SaaS..."
-          onkeydown="if(event.key==='Enter') generateIdea()"
-        >
-        <button class="gen-btn" id="genBtn" onclick="generateIdea()">
-          <span id="btnText">Generate Idea</span>
-          <div class="spinner" id="spinner"></div>
-        </button>
-      </div>
-
-      <div class="result-box" id="resultBox">
-        <div class="result-tag">AI-Generated Startup Idea</div>
-        <div class="result-text" id="resultText"></div>
-      </div>
-    </div>
-  </section>
 
   <!-- FEATURES -->
   <section class="section">
@@ -829,79 +783,6 @@
     <a href="contact.html" style="color:var(--muted);text-decoration:none;margin:0 10px;">Contact</a>
   </p>
 </footer>
-
-<script>
-  function fillTag(val) {
-    document.getElementById('niche').value = val;
-    document.getElementById('niche').focus();
-  }
-
-  async function generateIdea() {
-    const niche = document.getElementById('niche').value.trim();
-    if (!niche) {
-      document.getElementById('niche').focus();
-      return;
-    }
-
-    const btn = document.getElementById('genBtn');
-    const btnText = document.getElementById('btnText');
-    const spinner = document.getElementById('spinner');
-    const resultBox = document.getElementById('resultBox');
-    const resultText = document.getElementById('resultText');
-
-    btn.disabled = true;
-    btnText.textContent = 'Thinking...';
-    spinner.style.display = 'block';
-    resultBox.classList.remove('visible');
-
-    try {
-      const GROQ_KEY = '';
-
-      const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${GROQ_KEY}`
-        },
-        body: JSON.stringify({
-          model: 'llama-3.3-70b-versatile',
-          max_tokens: 1000,
-          messages: [{
-            role: 'user',
-            content: `Generate a concrete, actionable tech startup idea for the niche: "${niche}".
-
-Format your response as:
-💡 IDEA: [One-line concept]
-
-🎯 PROBLEM: [The specific pain point being solved]
-
-📦 PRODUCT: [What you actually build]
-
-💰 REVENUE MODEL: [How it makes money]
-
-🚀 WHY NOW: [Why this is the right time to build this]
-
-Keep it sharp, specific, and realistic. No fluff.`
-          }]
-        })
-      });
-
-      const data = await response.json();
-      const text = data.choices?.[0]?.message?.content || 'Could not generate idea. Please try again.';
-
-      resultText.textContent = text;
-      resultBox.classList.add('visible');
-
-    } catch (err) {
-      resultText.textContent = '⚠️ Error reaching AI. Please check your connection and try again.';
-      resultBox.classList.add('visible');
-    }
-
-    btn.disabled = false;
-    btnText.textContent = 'Generate Idea';
-    spinner.style.display = 'none';
-  }
-</script>
 
 <script>
   // تحميل المقالات من blog/index.json
