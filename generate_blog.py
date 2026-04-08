@@ -11,17 +11,61 @@ SITEMAP_FILE = "sitemap.xml"
 INDEX_FILE = "blog/index.json"
 
 TOPICS = [
-    "AI Startup Ideas 2026", "Benefits of .com Domains", "SaaS Growth Strategies",
-    "How to Brand Your Tech Company", "Future of FinTech Innovation",
-    "Why Short Domains are Valuable", "AI Tools for Entrepreneurs",
-    "Top Domain Investment Strategies", "How to Launch a Tech Startup in 2026",
-    "Best SaaS Business Models", "Passive Income with Domain Flipping",
-    "AI in Healthcare Startups", "No-Code Tools for Entrepreneurs",
-    "How to Pick a Brandable Domain Name", "Emerging Tech Trends 2026"
+    # AI & Tech
+    "AI Startup Ideas 2026", "AI Tools for Entrepreneurs", "AI in Healthcare Startups",
+    "How AI is Changing SaaS", "Best AI Productivity Tools for Founders",
+    "AI for Small Business Automation", "Machine Learning Startup Ideas",
+    "How to Build an AI-Powered SaaS", "AI in Education Startups",
+    "Voice AI Startup Opportunities", "AI in Legal Tech", "AI in Real Estate Tech",
+    "Computer Vision Startup Ideas", "Generative AI Business Models",
+    "AI Customer Support Tools for Startups",
+    # Domains & Branding
+    "Benefits of .com Domains", "Why Short Domains are Valuable",
+    "How to Pick a Brandable Domain Name", "Top Domain Investment Strategies",
+    "Passive Income with Domain Flipping", "How to Value a Premium Domain",
+    "Domain Flipping Guide for Beginners", "Best Niches for Domain Investing 2026",
+    "How to Sell a Domain on Sedo", "Expired Domains as Investment Opportunities",
+    "Why Brandable Domains Beat Keyword Domains", "Domain Portfolio Management Tips",
+    # SaaS & Startups
+    "SaaS Growth Strategies", "Best SaaS Business Models",
+    "How to Launch a Tech Startup in 2026", "How to Brand Your Tech Company",
+    "No-Code Tools for Entrepreneurs", "Micro SaaS Ideas for Solo Founders",
+    "How to Find Your First SaaS Customers", "Bootstrapping a SaaS in 2026",
+    "SaaS Pricing Strategies That Work", "B2B SaaS Startup Ideas",
+    "How to Validate a Startup Idea Fast", "Building a SaaS MVP in 30 Days",
+    "Top Startup Niches to Watch in 2026", "How to Get Your First 100 SaaS Users",
+    "Vertical SaaS Opportunities in 2026",
+    # FinTech & Investment
+    "Future of FinTech Innovation", "FinTech Startup Ideas 2026",
+    "How Blockchain is Changing Finance", "Digital Banking Startup Opportunities",
+    "Embedded Finance Startup Ideas", "InsurTech Startup Opportunities",
+    "WealthTech Startup Ideas", "Open Banking Opportunities for Startups",
+    # Other Niches
+    "HealthTech Startup Ideas 2026", "EdTech Startup Opportunities",
+    "CleanTech and GreenTech Startups", "LegalTech Startup Opportunities",
+    "HRTech Startup Ideas", "Creator Economy Business Ideas",
+    "Newsletter Business Ideas for 2026", "Remote Work Tools Startup Ideas",
+    "Cybersecurity Startup Ideas", "Developer Tools Startup Opportunities",
+    "MarTech Startup Ideas for 2026", "PropTech Startup Opportunities"
 ]
 
+def get_unused_topic():
+    """يختار topic مش مستخدم فالمقالات الأخيرة"""
+    used_topics = []
+    if os.path.exists(INDEX_FILE):
+        with open(INDEX_FILE, "r", encoding="utf-8") as f:
+            try:
+                posts = json.load(f)
+                used_topics = [p["title"] for p in posts]
+            except:
+                pass
+    available = [t for t in TOPICS if t not in used_topics]
+    if not available:
+        available = TOPICS  # إذا كل شي اتستخدم نرجعو للكل
+    return random.choice(available)
+
 def generate_article():
-    topic = random.choice(TOPICS)
+    topic = get_unused_topic()
     prompt = f"""
     Write a professional blog post in HTML for a website called TechieVest.
     Topic: {topic}
