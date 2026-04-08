@@ -201,8 +201,34 @@ def update_sitemap(new_file):
     with open(SITEMAP_FILE, "w") as f:
         f.writelines(lines)
 
+def post_to_twitter(topic, excerpt, filename):
+    """ينشر tweet عند كل مقال جديد"""
+    try:
+        import tweepy
+
+        client = tweepy.Client(
+            consumer_key=os.getenv("X_API_KEY"),
+            consumer_secret=os.getenv("X_API_SECRET"),
+            access_token=os.getenv("X_ACCESS_TOKEN"),
+            access_token_secret=os.getenv("X_ACCESS_SECRET")
+        )
+
+        post_url = f"https://techievest.com/{filename}"
+        tweet = f"🚀 {topic}\n\n{excerpt[:200]}...\n\n🔗 {post_url}\n\n#TechStartup #SaaS #AI #DomainInvesting"
+
+        # Twitter max 280 chars
+        if len(tweet) > 280:
+            tweet = f"🚀 {topic}\n\n🔗 {post_url}\n\n#TechStartup #SaaS #AI"
+
+        client.create_tweet(text=tweet)
+        print(f"✅ Tweet posted: {topic}")
+
+    except Exception as e:
+        print(f"⚠️ Twitter error: {e}")
+
 if __name__ == "__main__":
     filename, topic, excerpt, date_str = generate_article()
     update_index_json(filename, topic, excerpt, date_str)
     update_sitemap(filename)
+    post_to_twitter(topic, excerpt, filename)
     print(f"✅ Success: {filename} generated.")
