@@ -41,7 +41,9 @@ def generate_article():
     }
 
     response = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=data)
-    article_html = response.json()['choices'][0]['message']['content']
+    result = response.json()
+    print("API Response:", result)  # باش نشوفو شنو رجع
+    article_html = result['choices'][0]['message']['content']
 
     # حفظ المقال
     os.makedirs(BLOG_DIR, exist_ok=True)
