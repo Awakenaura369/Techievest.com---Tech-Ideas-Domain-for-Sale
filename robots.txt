@@ -1,1 +1,1 @@
-Sitemap: https://techievest.com/sitemap.xml
+Sitemap: https://techievest.netlify.app/sitemap.xml
