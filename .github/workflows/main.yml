@@ -5,7 +5,7 @@ on:
   workflow_dispatch: # باش تخدمو بيدك دبا
 
 permissions:
-  contents: write # هادا هو السطر اللي كيعالج الخطأ 128
+  contents: write
 
 jobs:
   generate:
@@ -19,11 +19,15 @@ jobs:
           python-version: '3.9'
           
       - name: Install Dependencies
-        run: pip install requests
+        run: pip install requests tweepy
         
       - name: Run Generator
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
         run: python generate_blog.py
         
       - name: Commit Changes
