@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI in Legal Tech",
+    "file": "blog/post-20260422-0225.html",
+    "excerpt": "The legal industry has undergone significant transformations in recent years, with the integration of artificial intelligence (AI) being one of the most notable advancements. AI in...",
+    "date": "April 22, 2026",
+    "date_str": "20260422-0225"
+  },
+  {
     "title": "Bootstrapping a SaaS in 2026",
     "file": "blog/post-20260421-0227.html",
     "excerpt": "Bootstrapping a Software as a Service (SaaS) company can be a challenging yet rewarding experience. In 2026, the SaaS industry is expected to continue its rapid growth, with more e...",
@@ -131,12 +138,5 @@
     "excerpt": "As a SaaS (Software as a Service) company, growth is essential to stay ahead of the competition and increase revenue. In this article, we will discuss effective SaaS growth strateg...",
     "date": "April 08, 2026",
     "date_str": "20260408-0128"
-  },
-  {
-    "title": "Passive Income with Domain Flipping",
-    "file": "blog/post-20260407-0211.html",
-    "excerpt": "Domain flipping, a concept that has been around for years, involves buying and selling domain names for a profit. This online business has gained immense popularity, especially amo...",
-    "date": "April 07, 2026",
-    "date_str": "20260407-0211"
   }
 ]
