@@ -1,5 +1,12 @@
 [
   {
+    "title": "Generative AI Business Models",
+    "file": "blog/post-20260430-0244.html",
+    "excerpt": "Generative AI has revolutionized the way businesses operate, creating new opportunities for growth and innovation. In this article, we will delve into the world of generative AI bu...",
+    "date": "April 30, 2026",
+    "date_str": "20260430-0244"
+  },
+  {
     "title": "Computer Vision Startup Ideas",
     "file": "blog/post-20260429-0243.html",
     "excerpt": "Computer vision, a subset of artificial intelligence, has been gaining momentum in recent years. This technology enables machines to interpret and understand visual data from the w...",
@@ -131,12 +138,5 @@
     "excerpt": "Finding your first SaaS customers is a crucial step in launching a successful software as a service business. It can be a challenging and daunting task, but with the right strategi...",
     "date": "April 11, 2026",
     "date_str": "20260411-0204"
-  },
-  {
-    "title": "How Blockchain is Changing Finance",
-    "file": "blog/post-20260410-0224.html",
-    "excerpt": "The world of finance is undergoing a significant transformation, thanks to the advent of blockchain technology. Blockchain, which was initially introduced as the underlying technol...",
-    "date": "April 10, 2026",
-    "date_str": "20260410-0224"
   }
 ]
