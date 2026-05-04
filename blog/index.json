@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI for Small Business Automation",
+    "file": "blog/post-20260504-0241.html",
+    "excerpt": "As a small business owner, you wear multiple hats, from managing finances to overseeing daily operations. However, with the increasing demand for efficiency and productivity, it's...",
+    "date": "May 04, 2026",
+    "date_str": "20260504-0241"
+  },
+  {
     "title": "Domain Portfolio Management Tips",
     "file": "blog/post-20260503-0243.html",
     "excerpt": "As a savvy online investor, managing a domain portfolio is crucial for maximizing your online presence and monetizing your digital assets. In this post, we'll delve into the world...",
@@ -131,12 +138,5 @@
     "excerpt": "As a startup, providing exceptional customer support is crucial for building a loyal customer base and driving business growth. However, managing a large volume of customer inquiri...",
     "date": "April 15, 2026",
     "date_str": "20260415-0223"
-  },
-  {
-    "title": "InsurTech Startup Opportunities",
-    "file": "blog/post-20260414-0225.html",
-    "excerpt": "The Insurance Technology (InsurTech) industry has experienced rapid growth in recent years, driven by the increasing demand for digital transformation and innovative solutions. As...",
-    "date": "April 14, 2026",
-    "date_str": "20260414-0225"
   }
 ]
