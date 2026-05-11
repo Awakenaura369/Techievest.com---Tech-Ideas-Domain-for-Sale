@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to Pick a Brandable Domain Name",
+    "file": "blog/post-20260511-0255.html",
+    "excerpt": "When it comes to building a strong online presence, having a brandable domain name is crucial. It's the first thing that people notice when they visit your website, and it can make...",
+    "date": "May 11, 2026",
+    "date_str": "20260511-0255"
+  },
+  {
     "title": "Future of FinTech Innovation",
     "file": "blog/post-20260510-0246.html",
     "excerpt": "The financial technology (FinTech) industry has experienced rapid growth and transformation over the past decade. With the rise of digital payments, mobile banking, and online lend...",
@@ -131,12 +138,5 @@
     "excerpt": "The legal industry has undergone significant transformations in recent years, with the integration of artificial intelligence (AI) being one of the most notable advancements. AI in...",
     "date": "April 22, 2026",
     "date_str": "20260422-0225"
-  },
-  {
-    "title": "Bootstrapping a SaaS in 2026",
-    "file": "blog/post-20260421-0227.html",
-    "excerpt": "Bootstrapping a Software as a Service (SaaS) company can be a challenging yet rewarding experience. In 2026, the SaaS industry is expected to continue its rapid growth, with more e...",
-    "date": "April 21, 2026",
-    "date_str": "20260421-0227"
   }
 ]
