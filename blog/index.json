@@ -1,5 +1,12 @@
 [
   {
+    "title": "How AI is Changing SaaS",
+    "file": "blog/post-20260514-0255.html",
+    "excerpt": "The Software as a Service (SaaS) industry has experienced significant growth in recent years, and one of the key drivers of this growth is the integration of Artificial Intelligenc...",
+    "date": "May 14, 2026",
+    "date_str": "20260514-0255"
+  },
+  {
     "title": "How to Brand Your Tech Company",
     "file": "blog/post-20260513-0252.html",
     "excerpt": "In today's competitive tech industry, establishing a strong brand identity is crucial for any company looking to stand out and attract customers. A well-defined brand helps to buil...",
@@ -131,12 +138,5 @@
     "excerpt": "Welcome to TechieVest, your one-stop-shop for all things tech. In this article, we will delve into the world of SaaS business models, exploring the most effective and profitable st...",
     "date": "April 25, 2026",
     "date_str": "20260425-0211"
-  },
-  {
-    "title": "WealthTech Startup Ideas",
-    "file": "blog/post-20260424-0229.html",
-    "excerpt": "The WealthTech industry has experienced significant growth in recent years, driven by the increasing demand for digital financial services. As technology continues to advance, the...",
-    "date": "April 24, 2026",
-    "date_str": "20260424-0229"
   }
 ]
