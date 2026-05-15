@@ -1,5 +1,12 @@
 [
   {
+    "title": "InsurTech Startup Opportunities",
+    "file": "blog/post-20260515-0255.html",
+    "excerpt": "The insurance industry has undergone significant transformations in recent years, driven by technological innovations and changing consumer expectations. The emergence of InsurTech...",
+    "date": "May 15, 2026",
+    "date_str": "20260515-0255"
+  },
+  {
     "title": "How AI is Changing SaaS",
     "file": "blog/post-20260514-0255.html",
     "excerpt": "The Software as a Service (SaaS) industry has experienced significant growth in recent years, and one of the key drivers of this growth is the integration of Artificial Intelligenc...",
@@ -131,12 +138,5 @@
     "excerpt": "Artificial intelligence (AI) and machine learning (ML) are no longer just buzzwords, but a reality that's transforming industries across the globe. Startups that are developing AI...",
     "date": "April 26, 2026",
     "date_str": "20260426-0234"
-  },
-  {
-    "title": "Best SaaS Business Models",
-    "file": "blog/post-20260425-0211.html",
-    "excerpt": "Welcome to TechieVest, your one-stop-shop for all things tech. In this article, we will delve into the world of SaaS business models, exploring the most effective and profitable st...",
-    "date": "April 25, 2026",
-    "date_str": "20260425-0211"
   }
 ]
