@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI in Legal Tech",
+    "file": "blog/post-20260520-0259.html",
+    "excerpt": "The legal industry has undergone significant transformations in recent years, driven by technological advancements and the increasing adoption of artificial intelligence (AI). AI i...",
+    "date": "May 20, 2026",
+    "date_str": "20260520-0259"
+  },
+  {
     "title": "CleanTech and GreenTech Startups",
     "file": "blog/post-20260519-0258.html",
     "excerpt": "The world is facing numerous environmental challenges, from climate change to pollution, and it's becoming increasingly important for businesses to adopt sustainable practices. Cle...",
@@ -131,12 +138,5 @@
     "excerpt": "Building a Minimum Viable Product (MVP) for a Software as a Service (SaaS) application in just 30 days can be a daunting task. However, with a clear plan, focus, and the right tool...",
     "date": "May 01, 2026",
     "date_str": "20260501-0252"
-  },
-  {
-    "title": "Generative AI Business Models",
-    "file": "blog/post-20260430-0244.html",
-    "excerpt": "Generative AI has revolutionized the way businesses operate, creating new opportunities for growth and innovation. In this article, we will delve into the world of generative AI bu...",
-    "date": "April 30, 2026",
-    "date_str": "20260430-0244"
   }
 ]
