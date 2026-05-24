@@ -1,5 +1,12 @@
 [
   {
+    "title": "SaaS Growth Strategies",
+    "file": "blog/post-20260524-0325.html",
+    "excerpt": "The Software as a Service (SaaS) industry has experienced tremendous growth over the past decade, with the global market size projected to reach $436.9 billion by 2027. As a SaaS b...",
+    "date": "May 24, 2026",
+    "date_str": "20260524-0325"
+  },
+  {
     "title": "AI Tools for Entrepreneurs",
     "file": "blog/post-20260523-0248.html",
     "excerpt": "At TechieVest, we are committed to providing entrepreneurs with the latest insights and tools to drive business success. If you're looking to take your business to the next level,...",
@@ -131,12 +138,5 @@
     "excerpt": "In today's digitally driven world, cybersecurity is a pressing concern for individuals, businesses, and governments alike. As technology advances, the threat landscape evolves, and...",
     "date": "May 05, 2026",
     "date_str": "20260505-0235"
-  },
-  {
-    "title": "AI for Small Business Automation",
-    "file": "blog/post-20260504-0241.html",
-    "excerpt": "As a small business owner, you wear multiple hats, from managing finances to overseeing daily operations. However, with the increasing demand for efficiency and productivity, it's...",
-    "date": "May 04, 2026",
-    "date_str": "20260504-0241"
   }
 ]
