@@ -1,5 +1,12 @@
 [
   {
+    "title": "WealthTech Startup Ideas",
+    "file": "blog/post-20260525-0337.html",
+    "excerpt": "WealthTech, a combination of wealth management and technology, has been gaining traction in recent years. The integration of technology into financial services has opened up new op...",
+    "date": "May 25, 2026",
+    "date_str": "20260525-0337"
+  },
+  {
     "title": "SaaS Growth Strategies",
     "file": "blog/post-20260524-0325.html",
     "excerpt": "The Software as a Service (SaaS) industry has experienced tremendous growth over the past decade, with the global market size projected to reach $436.9 billion by 2027. As a SaaS b...",
@@ -131,12 +138,5 @@
     "excerpt": "Finding your first SaaS customers can be a daunting task, especially for new entrepreneurs and startups. However, with a solid strategy and a clear understanding of your target mar...",
     "date": "May 06, 2026",
     "date_str": "20260506-0239"
-  },
-  {
-    "title": "Cybersecurity Startup Ideas",
-    "file": "blog/post-20260505-0235.html",
-    "excerpt": "In today's digitally driven world, cybersecurity is a pressing concern for individuals, businesses, and governments alike. As technology advances, the threat landscape evolves, and...",
-    "date": "May 05, 2026",
-    "date_str": "20260505-0235"
   }
 ]
