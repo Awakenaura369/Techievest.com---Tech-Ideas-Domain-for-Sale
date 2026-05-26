@@ -1,5 +1,12 @@
 [
   {
+    "title": "Domain Flipping Guide for Beginners",
+    "file": "blog/post-20260526-0256.html",
+    "excerpt": "Welcome to TechieVest, your ultimate resource for all things tech. In this article, we'll be covering the ins and outs of domain flipping, a lucrative online business that involves...",
+    "date": "May 26, 2026",
+    "date_str": "20260526-0256"
+  },
+  {
     "title": "WealthTech Startup Ideas",
     "file": "blog/post-20260525-0337.html",
     "excerpt": "WealthTech, a combination of wealth management and technology, has been gaining traction in recent years. The integration of technology into financial services has opened up new op...",
@@ -131,12 +138,5 @@
     "excerpt": "Getting your first 100 SaaS users is a crucial milestone for any startup. It validates your product, provides valuable feedback, and helps you refine your marketing strategy. Howev...",
     "date": "May 07, 2026",
     "date_str": "20260507-0241"
-  },
-  {
-    "title": "How to Find Your First SaaS Customers",
-    "file": "blog/post-20260506-0239.html",
-    "excerpt": "Finding your first SaaS customers can be a daunting task, especially for new entrepreneurs and startups. However, with a solid strategy and a clear understanding of your target mar...",
-    "date": "May 06, 2026",
-    "date_str": "20260506-0239"
   }
 ]
