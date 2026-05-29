@@ -1,5 +1,12 @@
 [
   {
+    "title": "Building a SaaS MVP in 30 Days",
+    "file": "blog/post-20260529-0258.html",
+    "excerpt": "In today's fast-paced tech industry, getting your product to market quickly is crucial for success. A Minimum Viable Product (MVP) is a stripped-down version of your software that...",
+    "date": "May 29, 2026",
+    "date_str": "20260529-0258"
+  },
+  {
     "title": "AI Startup Ideas 2026",
     "file": "blog/post-20260528-0255.html",
     "excerpt": "The world of artificial intelligence (AI) is rapidly evolving, and 2026 is set to be a groundbreaking year for AI startups. With the increasing demand for AI-powered solutions, ent...",
@@ -131,12 +138,5 @@
     "excerpt": "The financial technology (FinTech) industry has experienced rapid growth and transformation over the past decade. With the rise of digital payments, mobile banking, and online lend...",
     "date": "May 10, 2026",
     "date_str": "20260510-0246"
-  },
-  {
-    "title": "AI in Healthcare Startups",
-    "file": "blog/post-20260509-0240.html",
-    "excerpt": "The integration of Artificial Intelligence (AI) in healthcare has been a game-changer for the industry. AI has the potential to improve patient outcomes, streamline clinical workfl...",
-    "date": "May 09, 2026",
-    "date_str": "20260509-0240"
   }
 ]
