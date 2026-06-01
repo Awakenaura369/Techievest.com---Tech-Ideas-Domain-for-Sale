@@ -1,5 +1,12 @@
 [
   {
+    "title": "Voice AI Startup Opportunities",
+    "file": "blog/post-20260601-0351.html",
+    "excerpt": "The world of artificial intelligence has been rapidly evolving, and one of the most exciting areas of development is voice AI. With the rise of virtual assistants like Alexa, Googl...",
+    "date": "June 01, 2026",
+    "date_str": "20260601-0351"
+  },
+  {
     "title": "Domain Portfolio Management Tips",
     "file": "blog/post-20260531-0336.html",
     "excerpt": "As a web developer, entrepreneur, or online business owner, managing a domain portfolio can be a daunting task. With multiple domains to keep track of, it's easy to lose sight of w...",
@@ -131,12 +138,5 @@
     "excerpt": "In today's competitive tech industry, establishing a strong brand identity is crucial for any company looking to stand out and attract customers. A well-defined brand helps to buil...",
     "date": "May 13, 2026",
     "date_str": "20260513-0252"
-  },
-  {
-    "title": "Developer Tools Startup Opportunities",
-    "file": "blog/post-20260512-0247.html",
-    "excerpt": "The world of software development is rapidly evolving, with new technologies and innovations emerging every day. As a result, the demand for efficient and effective developer tools...",
-    "date": "May 12, 2026",
-    "date_str": "20260512-0247"
   }
 ]
