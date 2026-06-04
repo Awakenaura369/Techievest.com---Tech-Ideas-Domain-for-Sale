@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to Brand Your Tech Company",
+    "file": "blog/post-20260604-0347.html",
+    "excerpt": "In today's competitive tech industry, establishing a strong brand identity is crucial for success. A well-defined brand helps you stand out from the competition, builds trust with...",
+    "date": "June 04, 2026",
+    "date_str": "20260604-0347"
+  },
+  {
     "title": "AI for Small Business Automation",
     "file": "blog/post-20260603-0353.html",
     "excerpt": "As a small business owner, you're constantly looking for ways to streamline operations, reduce costs, and increase efficiency. One technology that's gaining popularity in recent ye...",
@@ -131,12 +138,5 @@
     "excerpt": "In the competitive world of Software as a Service (SaaS), developing an effective pricing strategy is crucial for success. A well-crafted pricing strategy can make all the differen...",
     "date": "May 16, 2026",
     "date_str": "20260516-0243"
-  },
-  {
-    "title": "InsurTech Startup Opportunities",
-    "file": "blog/post-20260515-0255.html",
-    "excerpt": "The insurance industry has undergone significant transformations in recent years, driven by technological innovations and changing consumer expectations. The emergence of InsurTech...",
-    "date": "May 15, 2026",
-    "date_str": "20260515-0255"
   }
 ]
