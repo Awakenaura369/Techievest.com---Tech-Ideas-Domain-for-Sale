@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI in Legal Tech",
+    "file": "blog/post-20260610-0331.html",
+    "excerpt": "The legal industry has long been known for its traditional and paper-based approach. However, with the advent of technology, the sector is undergoing a significant transformation....",
+    "date": "June 10, 2026",
+    "date_str": "20260610-0331"
+  },
+  {
     "title": "AI in Education Startups",
     "file": "blog/post-20260609-0254.html",
     "excerpt": "The integration of Artificial Intelligence (AI) in education startups has been a game-changer, transforming the way we learn and interact with educational content. AI has the poten...",
@@ -131,12 +138,5 @@
     "excerpt": "The creator economy has experienced tremendous growth in recent years, with millions of people turning their passions into successful businesses. This shift has led to the emergenc...",
     "date": "May 22, 2026",
     "date_str": "20260522-0328"
-  },
-  {
-    "title": "Open Banking Opportunities for Startups",
-    "file": "blog/post-20260521-0329.html",
-    "excerpt": "Open banking has revolutionized the way financial institutions and third-party providers interact, offering a plethora of opportunities for startups to innovate and thrive. The ope...",
-    "date": "May 21, 2026",
-    "date_str": "20260521-0329"
   }
 ]
