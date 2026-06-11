@@ -1,5 +1,12 @@
 [
   {
+    "title": "Generative AI Business Models",
+    "file": "blog/post-20260611-0343.html",
+    "excerpt": "Generative AI, a subset of artificial intelligence, has been making waves in various industries, transforming the way businesses operate and create value. At its core, generative A...",
+    "date": "June 11, 2026",
+    "date_str": "20260611-0343"
+  },
+  {
     "title": "AI in Legal Tech",
     "file": "blog/post-20260610-0331.html",
     "excerpt": "The legal industry has long been known for its traditional and paper-based approach. However, with the advent of technology, the sector is undergoing a significant transformation....",
@@ -131,12 +138,5 @@
     "excerpt": "At TechieVest, we are committed to providing entrepreneurs with the latest insights and tools to drive business success. If you're looking to take your business to the next level,...",
     "date": "May 23, 2026",
     "date_str": "20260523-0248"
-  },
-  {
-    "title": "Creator Economy Business Ideas",
-    "file": "blog/post-20260522-0328.html",
-    "excerpt": "The creator economy has experienced tremendous growth in recent years, with millions of people turning their passions into successful businesses. This shift has led to the emergenc...",
-    "date": "May 22, 2026",
-    "date_str": "20260522-0328"
   }
 ]
