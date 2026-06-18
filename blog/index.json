@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI Tools for Entrepreneurs",
+    "file": "blog/post-20260618-0342.html",
+    "excerpt": "In today's fast-paced business landscape, entrepreneurs are constantly seeking innovative solutions to stay ahead of the competition. One key area that has gained significant atten...",
+    "date": "June 18, 2026",
+    "date_str": "20260618-0342"
+  },
+  {
     "title": "Creator Economy Business Ideas",
     "file": "blog/post-20260617-0355.html",
     "excerpt": "The creator economy has emerged as a significant force in the digital landscape, with millions of individuals turning their passions into profitable ventures. As the space continue...",
@@ -131,12 +138,5 @@
     "excerpt": "As we step into the new year, it's essential for entrepreneurs and marketers to stay ahead of the curve and explore innovative business ideas. One such idea is creating a newslette...",
     "date": "May 30, 2026",
     "date_str": "20260530-0251"
-  },
-  {
-    "title": "Building a SaaS MVP in 30 Days",
-    "file": "blog/post-20260529-0258.html",
-    "excerpt": "In today's fast-paced tech industry, getting your product to market quickly is crucial for success. A Minimum Viable Product (MVP) is a stripped-down version of your software that...",
-    "date": "May 29, 2026",
-    "date_str": "20260529-0258"
   }
 ]
