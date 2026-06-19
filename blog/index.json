@@ -1,5 +1,12 @@
 [
   {
+    "title": "How Blockchain is Changing Finance",
+    "file": "blog/post-20260619-0405.html",
+    "excerpt": "The world of finance is undergoing a significant transformation, thanks to the emergence of blockchain technology. Blockchain, the underlying technology behind cryptocurrencies lik...",
+    "date": "June 19, 2026",
+    "date_str": "20260619-0405"
+  },
+  {
     "title": "AI Tools for Entrepreneurs",
     "file": "blog/post-20260618-0342.html",
     "excerpt": "In today's fast-paced business landscape, entrepreneurs are constantly seeking innovative solutions to stay ahead of the competition. One key area that has gained significant atten...",
@@ -131,12 +138,5 @@
     "excerpt": "As a web developer, entrepreneur, or online business owner, managing a domain portfolio can be a daunting task. With multiple domains to keep track of, it's easy to lose sight of w...",
     "date": "May 31, 2026",
     "date_str": "20260531-0336"
-  },
-  {
-    "title": "Newsletter Business Ideas for 2026",
-    "file": "blog/post-20260530-0251.html",
-    "excerpt": "As we step into the new year, it's essential for entrepreneurs and marketers to stay ahead of the curve and explore innovative business ideas. One such idea is creating a newslette...",
-    "date": "May 30, 2026",
-    "date_str": "20260530-0251"
   }
 ]
