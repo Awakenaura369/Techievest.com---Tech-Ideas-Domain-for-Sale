@@ -1,5 +1,12 @@
 [
   {
+    "title": "SaaS Growth Strategies",
+    "file": "blog/post-20260620-0328.html",
+    "excerpt": "In today's competitive software as a service (SaaS) landscape, growing your business requires a strategic approach. With numerous players in the market, it's essential to different...",
+    "date": "June 20, 2026",
+    "date_str": "20260620-0328"
+  },
+  {
     "title": "How Blockchain is Changing Finance",
     "file": "blog/post-20260619-0405.html",
     "excerpt": "The world of finance is undergoing a significant transformation, thanks to the emergence of blockchain technology. Blockchain, the underlying technology behind cryptocurrencies lik...",
@@ -131,12 +138,5 @@
     "excerpt": "The world of artificial intelligence has been rapidly evolving, and one of the most exciting areas of development is voice AI. With the rise of virtual assistants like Alexa, Googl...",
     "date": "June 01, 2026",
     "date_str": "20260601-0351"
-  },
-  {
-    "title": "Domain Portfolio Management Tips",
-    "file": "blog/post-20260531-0336.html",
-    "excerpt": "As a web developer, entrepreneur, or online business owner, managing a domain portfolio can be a daunting task. With multiple domains to keep track of, it's easy to lose sight of w...",
-    "date": "May 31, 2026",
-    "date_str": "20260531-0336"
   }
 ]
