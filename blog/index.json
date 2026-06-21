@@ -1,5 +1,12 @@
 [
   {
+    "title": "InsurTech Startup Opportunities",
+    "file": "blog/post-20260621-0359.html",
+    "excerpt": "The insurance industry has long been due for a technological revolution, and with the rise of InsurTech, startups are now more than ever poised to disrupt the status quo. InsurTech...",
+    "date": "June 21, 2026",
+    "date_str": "20260621-0359"
+  },
+  {
     "title": "SaaS Growth Strategies",
     "file": "blog/post-20260620-0328.html",
     "excerpt": "In today's competitive software as a service (SaaS) landscape, growing your business requires a strategic approach. With numerous players in the market, it's essential to different...",
@@ -131,12 +138,5 @@
     "excerpt": "The world of cybersecurity is rapidly evolving, and with the increasing number of cyber threats, the demand for innovative security solutions is on the rise. If you're an entrepren...",
     "date": "June 02, 2026",
     "date_str": "20260602-0343"
-  },
-  {
-    "title": "Voice AI Startup Opportunities",
-    "file": "blog/post-20260601-0351.html",
-    "excerpt": "The world of artificial intelligence has been rapidly evolving, and one of the most exciting areas of development is voice AI. With the rise of virtual assistants like Alexa, Googl...",
-    "date": "June 01, 2026",
-    "date_str": "20260601-0351"
   }
 ]
