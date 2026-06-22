@@ -1,5 +1,12 @@
 [
   {
+    "title": "Building a SaaS MVP in 30 Days",
+    "file": "blog/post-20260622-0400.html",
+    "excerpt": "Building a SaaS (Software as a Service) Minimum Viable Product (MVP) in just 30 days is a challenging task, but with a well-planned approach, it's achievable. In this article, we'l...",
+    "date": "June 22, 2026",
+    "date_str": "20260622-0400"
+  },
+  {
     "title": "InsurTech Startup Opportunities",
     "file": "blog/post-20260621-0359.html",
     "excerpt": "The insurance industry has long been due for a technological revolution, and with the rise of InsurTech, startups are now more than ever poised to disrupt the status quo. InsurTech...",
@@ -131,12 +138,5 @@
     "excerpt": "As a small business owner, you're constantly looking for ways to streamline operations, reduce costs, and increase efficiency. One technology that's gaining popularity in recent ye...",
     "date": "June 03, 2026",
     "date_str": "20260603-0353"
-  },
-  {
-    "title": "Cybersecurity Startup Ideas",
-    "file": "blog/post-20260602-0343.html",
-    "excerpt": "The world of cybersecurity is rapidly evolving, and with the increasing number of cyber threats, the demand for innovative security solutions is on the rise. If you're an entrepren...",
-    "date": "June 02, 2026",
-    "date_str": "20260602-0343"
   }
 ]
