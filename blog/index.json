@@ -1,5 +1,12 @@
 [
   {
+    "title": "Machine Learning Startup Ideas",
+    "file": "blog/post-20260626-0330.html",
+    "excerpt": "Machine learning has been a rapidly growing field in recent years, with new innovations and applications emerging every day. From image recognition to natural language processing,...",
+    "date": "June 26, 2026",
+    "date_str": "20260626-0330"
+  },
+  {
     "title": "CleanTech and GreenTech Startups",
     "file": "blog/post-20260625-0258.html",
     "excerpt": "The world is shifting towards a more sustainable and environmentally-friendly approach, and CleanTech and GreenTech startups are at the forefront of this revolution. These innovati...",
@@ -131,12 +138,5 @@
     "excerpt": "The software as a service (SaaS) industry has experienced tremendous growth over the past decade, with the global SaaS market projected to reach $436.9 billion by 2027. One key fac...",
     "date": "June 07, 2026",
     "date_str": "20260607-0341"
-  },
-  {
-    "title": "Micro SaaS Ideas for Solo Founders",
-    "file": "blog/post-20260606-0255.html",
-    "excerpt": "As a solo founder, it can be challenging to come up with a viable business idea that doesn't require a large team or significant resources. However, with the rise of Micro SaaS (So...",
-    "date": "June 06, 2026",
-    "date_str": "20260606-0255"
   }
 ]
