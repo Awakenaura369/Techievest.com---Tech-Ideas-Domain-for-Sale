@@ -1,5 +1,12 @@
 [
   {
+    "title": "B2B SaaS Startup Ideas",
+    "file": "blog/post-20260627-0253.html",
+    "excerpt": "In the ever-evolving world of technology, B2B SaaS (Business-to-Business Software as a Service) startups have emerged as a dominant force, transforming the way businesses operate a...",
+    "date": "June 27, 2026",
+    "date_str": "20260627-0253"
+  },
+  {
     "title": "Machine Learning Startup Ideas",
     "file": "blog/post-20260626-0330.html",
     "excerpt": "Machine learning has been a rapidly growing field in recent years, with new innovations and applications emerging every day. From image recognition to natural language processing,...",
@@ -131,12 +138,5 @@
     "excerpt": "As we dive into 2026, the startup landscape is more exciting than ever. With technological advancements and shifting consumer behaviors, new opportunities are emerging for entrepre...",
     "date": "June 08, 2026",
     "date_str": "20260608-0347"
-  },
-  {
-    "title": "How AI is Changing SaaS",
-    "file": "blog/post-20260607-0341.html",
-    "excerpt": "The software as a service (SaaS) industry has experienced tremendous growth over the past decade, with the global SaaS market projected to reach $436.9 billion by 2027. One key fac...",
-    "date": "June 07, 2026",
-    "date_str": "20260607-0341"
   }
 ]
