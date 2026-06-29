@@ -1,5 +1,12 @@
 [
   {
+    "title": "Vertical SaaS Opportunities in 2026",
+    "file": "blog/post-20260629-0340.html",
+    "excerpt": "The world of software as a service (SaaS) has experienced significant growth over the years, and one area that has garnered considerable attention is Vertical SaaS. This approach i...",
+    "date": "June 29, 2026",
+    "date_str": "20260629-0340"
+  },
+  {
     "title": "AI in Healthcare Startups",
     "file": "blog/post-20260628-0335.html",
     "excerpt": "The intersection of artificial intelligence (AI) and healthcare has been a subject of interest for many years, with the potential to revolutionize the way medical care is delivered...",
@@ -131,12 +138,5 @@
     "excerpt": "The legal industry has long been known for its traditional and paper-based approach. However, with the advent of technology, the sector is undergoing a significant transformation....",
     "date": "June 10, 2026",
     "date_str": "20260610-0331"
-  },
-  {
-    "title": "AI in Education Startups",
-    "file": "blog/post-20260609-0254.html",
-    "excerpt": "The integration of Artificial Intelligence (AI) in education startups has been a game-changer, transforming the way we learn and interact with educational content. AI has the poten...",
-    "date": "June 09, 2026",
-    "date_str": "20260609-0254"
   }
 ]
