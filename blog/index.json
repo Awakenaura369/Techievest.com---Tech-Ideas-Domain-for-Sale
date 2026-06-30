@@ -1,5 +1,12 @@
 [
   {
+    "title": "WealthTech Startup Ideas",
+    "file": "blog/post-20260630-0328.html",
+    "excerpt": "The WealthTech industry has experienced significant growth in recent years, driven by the increasing demand for digital financial services. As technology continues to advance, Weal...",
+    "date": "June 30, 2026",
+    "date_str": "20260630-0328"
+  },
+  {
     "title": "Vertical SaaS Opportunities in 2026",
     "file": "blog/post-20260629-0340.html",
     "excerpt": "The world of software as a service (SaaS) has experienced significant growth over the years, and one area that has garnered considerable attention is Vertical SaaS. This approach i...",
@@ -131,12 +138,5 @@
     "excerpt": "Generative AI, a subset of artificial intelligence, has been making waves in various industries, transforming the way businesses operate and create value. At its core, generative A...",
     "date": "June 11, 2026",
     "date_str": "20260611-0343"
-  },
-  {
-    "title": "AI in Legal Tech",
-    "file": "blog/post-20260610-0331.html",
-    "excerpt": "The legal industry has long been known for its traditional and paper-based approach. However, with the advent of technology, the sector is undergoing a significant transformation....",
-    "date": "June 10, 2026",
-    "date_str": "20260610-0331"
   }
 ]
