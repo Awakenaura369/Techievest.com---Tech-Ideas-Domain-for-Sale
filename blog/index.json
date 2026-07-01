@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to Validate a Startup Idea Fast",
+    "file": "blog/post-20260701-0336.html",
+    "excerpt": "Validating a startup idea is a crucial step in determining its potential for success. It helps you understand whether your idea solves a real problem, whether people are willing to...",
+    "date": "July 01, 2026",
+    "date_str": "20260701-0336"
+  },
+  {
     "title": "WealthTech Startup Ideas",
     "file": "blog/post-20260630-0328.html",
     "excerpt": "The WealthTech industry has experienced significant growth in recent years, driven by the increasing demand for digital financial services. As technology continues to advance, Weal...",
@@ -131,12 +138,5 @@
     "excerpt": "When it comes to creating a professional online presence, choosing the right domain name is crucial. With so many top-level domains (TLDs) available, it can be overwhelming to deci...",
     "date": "June 12, 2026",
     "date_str": "20260612-0343"
-  },
-  {
-    "title": "Generative AI Business Models",
-    "file": "blog/post-20260611-0343.html",
-    "excerpt": "Generative AI, a subset of artificial intelligence, has been making waves in various industries, transforming the way businesses operate and create value. At its core, generative A...",
-    "date": "June 11, 2026",
-    "date_str": "20260611-0343"
   }
 ]
