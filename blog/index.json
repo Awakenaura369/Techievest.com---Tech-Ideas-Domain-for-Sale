@@ -1,5 +1,12 @@
 [
   {
+    "title": "HRTech Startup Ideas",
+    "file": "blog/post-20260705-0251.html",
+    "excerpt": "The HRTech industry has experienced significant growth in recent years, driven by the increasing demand for digital transformation in the workplace. As technology continues to adva...",
+    "date": "July 05, 2026",
+    "date_str": "20260705-0251"
+  },
+  {
     "title": "Domain Portfolio Management Tips",
     "file": "blog/post-20260704-0240.html",
     "excerpt": "Domain portfolio management refers to the process of acquiring, maintaining, and monetizing a collection of domain names. In today's digital age, having a well-managed domain portf...",
@@ -131,12 +138,5 @@
     "excerpt": "As a SaaS (Software as a Service) founder, acquiring your first customers is a crucial milestone in the journey of building a successful business. It's a validation of your product...",
     "date": "June 16, 2026",
     "date_str": "20260616-0354"
-  },
-  {
-    "title": "How to Pick a Brandable Domain Name",
-    "file": "blog/post-20260615-0403.html",
-    "excerpt": "When it comes to creating an online presence, one of the most critical decisions you'll make is choosing a domain name. A brandable domain name can make all the difference in estab...",
-    "date": "June 15, 2026",
-    "date_str": "20260615-0403"
   }
 ]
