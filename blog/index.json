@@ -1,5 +1,12 @@
 [
   {
+    "title": "Computer Vision Startup Ideas",
+    "file": "blog/post-20260711-0226.html",
+    "excerpt": "Computer vision, a subset of artificial intelligence, has been transforming various industries and aspects of our lives. From self-driving cars to facial recognition systems, its a...",
+    "date": "July 11, 2026",
+    "date_str": "20260711-0226"
+  },
+  {
     "title": "How to Launch a Tech Startup in 2026",
     "file": "blog/post-20260710-0248.html",
     "excerpt": "Launching a tech startup can be a daunting task, especially in a competitive landscape like the one we have today. However, with the right guidance and a solid plan, you can set yo...",
@@ -131,12 +138,5 @@
     "excerpt": "Building a SaaS (Software as a Service) Minimum Viable Product (MVP) in just 30 days is a challenging task, but with a well-planned approach, it's achievable. In this article, we'l...",
     "date": "June 22, 2026",
     "date_str": "20260622-0400"
-  },
-  {
-    "title": "InsurTech Startup Opportunities",
-    "file": "blog/post-20260621-0359.html",
-    "excerpt": "The insurance industry has long been due for a technological revolution, and with the rise of InsurTech, startups are now more than ever poised to disrupt the status quo. InsurTech...",
-    "date": "June 21, 2026",
-    "date_str": "20260621-0359"
   }
 ]
