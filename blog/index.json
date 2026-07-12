@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to Brand Your Tech Company",
+    "file": "blog/post-20260712-0232.html",
+    "excerpt": "In today's competitive tech industry, establishing a strong brand identity is crucial for any company looking to stand out and succeed. A well-crafted brand strategy can help you b...",
+    "date": "July 12, 2026",
+    "date_str": "20260712-0232"
+  },
+  {
     "title": "Computer Vision Startup Ideas",
     "file": "blog/post-20260711-0226.html",
     "excerpt": "Computer vision, a subset of artificial intelligence, has been transforming various industries and aspects of our lives. From self-driving cars to facial recognition systems, its a...",
@@ -131,12 +138,5 @@
     "excerpt": "As we step into 2026, the world of artificial intelligence (AI) continues to expand and evolve, transforming various industries and giving rise to innovative startup ideas. In this...",
     "date": "June 23, 2026",
     "date_str": "20260623-0258"
-  },
-  {
-    "title": "Building a SaaS MVP in 30 Days",
-    "file": "blog/post-20260622-0400.html",
-    "excerpt": "Building a SaaS (Software as a Service) Minimum Viable Product (MVP) in just 30 days is a challenging task, but with a well-planned approach, it's achievable. In this article, we'l...",
-    "date": "June 22, 2026",
-    "date_str": "20260622-0400"
   }
 ]
