@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI for Small Business Automation",
+    "file": "blog/post-20260713-0234.html",
+    "excerpt": "As a small business owner, you wear many hats. From managing finances to handling customer service, your plate is always full. However, what if you could automate some of these tas...",
+    "date": "July 13, 2026",
+    "date_str": "20260713-0234"
+  },
+  {
     "title": "How to Brand Your Tech Company",
     "file": "blog/post-20260712-0232.html",
     "excerpt": "In today's competitive tech industry, establishing a strong brand identity is crucial for any company looking to stand out and succeed. A well-crafted brand strategy can help you b...",
@@ -131,12 +138,5 @@
     "excerpt": "The education technology (EdTech) industry has experienced rapid growth in recent years, driven by the increasing demand for online and hybrid learning models. As a result, EdTech...",
     "date": "June 24, 2026",
     "date_str": "20260624-0323"
-  },
-  {
-    "title": "AI Startup Ideas 2026",
-    "file": "blog/post-20260623-0258.html",
-    "excerpt": "As we step into 2026, the world of artificial intelligence (AI) continues to expand and evolve, transforming various industries and giving rise to innovative startup ideas. In this...",
-    "date": "June 23, 2026",
-    "date_str": "20260623-0258"
   }
 ]
