@@ -1,5 +1,12 @@
 [
   {
+    "title": "Why Short Domains are Valuable",
+    "file": "blog/post-20260715-0211.html",
+    "excerpt": "In the ever-evolving digital landscape, having a strong online presence is crucial for businesses, individuals, and organizations. One often overlooked aspect of this presence is t...",
+    "date": "July 15, 2026",
+    "date_str": "20260715-0211"
+  },
+  {
     "title": "How to Pick a Brandable Domain Name",
     "file": "blog/post-20260714-0212.html",
     "excerpt": "Choosing the right domain name for your business or personal website can be a daunting task. With millions of websites already online, finding a unique and brandable domain name ca...",
@@ -131,12 +138,5 @@
     "excerpt": "Machine learning has been a rapidly growing field in recent years, with new innovations and applications emerging every day. From image recognition to natural language processing,...",
     "date": "June 26, 2026",
     "date_str": "20260626-0330"
-  },
-  {
-    "title": "CleanTech and GreenTech Startups",
-    "file": "blog/post-20260625-0258.html",
-    "excerpt": "The world is shifting towards a more sustainable and environmentally-friendly approach, and CleanTech and GreenTech startups are at the forefront of this revolution. These innovati...",
-    "date": "June 25, 2026",
-    "date_str": "20260625-0258"
   }
 ]
