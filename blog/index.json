@@ -1,5 +1,12 @@
 [
   {
+    "title": "No-Code Tools for Entrepreneurs",
+    "file": "blog/post-20260716-0224.html",
+    "excerpt": "No-code tools have emerged as a game-changer for entrepreneurs, enabling them to develop and launch their products without extensive coding knowledge. In this article, we will delv...",
+    "date": "July 16, 2026",
+    "date_str": "20260716-0224"
+  },
+  {
     "title": "Why Short Domains are Valuable",
     "file": "blog/post-20260715-0211.html",
     "excerpt": "In the ever-evolving digital landscape, having a strong online presence is crucial for businesses, individuals, and organizations. One often overlooked aspect of this presence is t...",
@@ -131,12 +138,5 @@
     "excerpt": "In the ever-evolving world of technology, B2B SaaS (Business-to-Business Software as a Service) startups have emerged as a dominant force, transforming the way businesses operate a...",
     "date": "June 27, 2026",
     "date_str": "20260627-0253"
-  },
-  {
-    "title": "Machine Learning Startup Ideas",
-    "file": "blog/post-20260626-0330.html",
-    "excerpt": "Machine learning has been a rapidly growing field in recent years, with new innovations and applications emerging every day. From image recognition to natural language processing,...",
-    "date": "June 26, 2026",
-    "date_str": "20260626-0330"
   }
 ]
