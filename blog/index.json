@@ -1,5 +1,12 @@
 [
   {
+    "title": "Remote Work Tools Startup Ideas",
+    "file": "blog/post-20260718-0212.html",
+    "excerpt": "As the world becomes increasingly digital, the demand for remote work tools has never been higher. With more companies adopting flexible work arrangements, the need for innovative...",
+    "date": "July 18, 2026",
+    "date_str": "20260718-0212"
+  },
+  {
     "title": "AI Customer Support Tools for Startups",
     "file": "blog/post-20260717-0227.html",
     "excerpt": "In today's fast-paced business landscape, providing exceptional customer support is crucial for startups to stand out from the competition. With the advent of Artificial Intelligen...",
@@ -131,12 +138,5 @@
     "excerpt": "The world of software as a service (SaaS) has experienced significant growth over the years, and one area that has garnered considerable attention is Vertical SaaS. This approach i...",
     "date": "June 29, 2026",
     "date_str": "20260629-0340"
-  },
-  {
-    "title": "AI in Healthcare Startups",
-    "file": "blog/post-20260628-0335.html",
-    "excerpt": "The intersection of artificial intelligence (AI) and healthcare has been a subject of interest for many years, with the potential to revolutionize the way medical care is delivered...",
-    "date": "June 28, 2026",
-    "date_str": "20260628-0335"
   }
 ]
