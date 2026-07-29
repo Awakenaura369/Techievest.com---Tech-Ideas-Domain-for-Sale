@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to Find Your First SaaS Customers",
+    "file": "blog/post-20260729-0225.html",
+    "excerpt": "Acquiring the first customers is a crucial milestone for any SaaS (Software as a Service) business. It validates the product, provides valuable feedback, and generates revenue to f...",
+    "date": "July 29, 2026",
+    "date_str": "20260729-0225"
+  },
+  {
     "title": "AI in Real Estate Tech",
     "file": "blog/post-20260728-0221.html",
     "excerpt": "The real estate industry has witnessed significant transformations over the years, with technology playing a pivotal role in shaping its future. One of the most exciting developmen...",
@@ -131,12 +138,5 @@
     "excerpt": "Launching a tech startup can be a daunting task, especially in a competitive landscape like the one we have today. However, with the right guidance and a solid plan, you can set yo...",
     "date": "July 10, 2026",
     "date_str": "20260710-0248"
-  },
-  {
-    "title": "Micro SaaS Ideas for Solo Founders",
-    "file": "blog/post-20260709-0245.html",
-    "excerpt": "As a solo founder, it can be daunting to navigate the world of Software as a Service (SaaS) companies. However, with the right ideas and approach, it's possible to build a successf...",
-    "date": "July 09, 2026",
-    "date_str": "20260709-0245"
   }
 ]
