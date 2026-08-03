@@ -1,5 +1,12 @@
 [
   {
+    "title": "Generative AI Business Models",
+    "file": "blog/post-20260803-0234.html",
+    "excerpt": "Generative AI has emerged as a transformative technology, revolutionizing industries and creating new opportunities for businesses. As the capabilities of generative AI continue to...",
+    "date": "August 03, 2026",
+    "date_str": "20260803-0234"
+  },
+  {
     "title": "Open Banking Opportunities for Startups",
     "file": "blog/post-20260802-0233.html",
     "excerpt": "Open banking has revolutionized the way financial institutions operate, providing a secure and standardized way for them to share customer data with third-party providers. This shi...",
@@ -131,12 +138,5 @@
     "excerpt": "In the ever-evolving digital landscape, having a strong online presence is crucial for businesses, individuals, and organizations. One often overlooked aspect of this presence is t...",
     "date": "July 15, 2026",
     "date_str": "20260715-0211"
-  },
-  {
-    "title": "How to Pick a Brandable Domain Name",
-    "file": "blog/post-20260714-0212.html",
-    "excerpt": "Choosing the right domain name for your business or personal website can be a daunting task. With millions of websites already online, finding a unique and brandable domain name ca...",
-    "date": "July 14, 2026",
-    "date_str": "20260714-0212"
   }
 ]
