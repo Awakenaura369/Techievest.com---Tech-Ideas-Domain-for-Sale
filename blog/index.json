@@ -1,5 +1,12 @@
 [
   {
+    "title": "SaaS Growth Strategies",
+    "file": "blog/post-20260806-0222.html",
+    "excerpt": "The SaaS (Software as a Service) industry has experienced tremendous growth in recent years, and it's expected to continue expanding as more businesses adopt cloud-based solutions....",
+    "date": "August 06, 2026",
+    "date_str": "20260806-0222"
+  },
+  {
     "title": "Micro SaaS Ideas for Solo Founders",
     "file": "blog/post-20260805-0213.html",
     "excerpt": "As a solo founder, it can be challenging to come up with a SaaS (Software as a Service) idea that is both feasible and profitable. However, with the rise of micro SaaS, solo founde...",
@@ -131,12 +138,5 @@
     "excerpt": "As the world becomes increasingly digital, the demand for remote work tools has never been higher. With more companies adopting flexible work arrangements, the need for innovative...",
     "date": "July 18, 2026",
     "date_str": "20260718-0212"
-  },
-  {
-    "title": "AI Customer Support Tools for Startups",
-    "file": "blog/post-20260717-0227.html",
-    "excerpt": "In today's fast-paced business landscape, providing exceptional customer support is crucial for startups to stand out from the competition. With the advent of Artificial Intelligen...",
-    "date": "July 17, 2026",
-    "date_str": "20260717-0227"
   }
 ]
