@@ -1,5 +1,12 @@
 [
   {
+    "title": "Future of FinTech Innovation",
+    "file": "blog/post-20260807-0232.html",
+    "excerpt": "The Financial Technology (FinTech) industry has experienced remarkable growth over the past decade, transforming the way we manage our finances, make transactions, and interact wit...",
+    "date": "August 07, 2026",
+    "date_str": "20260807-0232"
+  },
+  {
     "title": "SaaS Growth Strategies",
     "file": "blog/post-20260806-0222.html",
     "excerpt": "The SaaS (Software as a Service) industry has experienced tremendous growth in recent years, and it's expected to continue expanding as more businesses adopt cloud-based solutions....",
@@ -131,12 +138,5 @@
     "excerpt": "Building an AI-powered SaaS (Software as a Service) can be a complex and daunting task, but with the right approach, it can also be a highly rewarding endeavor. In this article, we...",
     "date": "July 19, 2026",
     "date_str": "20260719-0229"
-  },
-  {
-    "title": "Remote Work Tools Startup Ideas",
-    "file": "blog/post-20260718-0212.html",
-    "excerpt": "As the world becomes increasingly digital, the demand for remote work tools has never been higher. With more companies adopting flexible work arrangements, the need for innovative...",
-    "date": "July 18, 2026",
-    "date_str": "20260718-0212"
   }
 ]
