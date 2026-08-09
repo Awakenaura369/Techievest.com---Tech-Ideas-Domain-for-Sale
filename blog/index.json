@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to Build an AI-Powered SaaS",
+    "file": "blog/post-20260809-0126.html",
+    "excerpt": "Artificial intelligence (AI) has revolutionized the way we approach software development, and Software as a Service (SaaS) is no exception. AI-powered SaaS solutions are becoming i...",
+    "date": "August 09, 2026",
+    "date_str": "20260809-0126"
+  },
+  {
     "title": "How to Launch a Tech Startup in 2026",
     "file": "blog/post-20260808-0121.html",
     "excerpt": "Launching a tech startup can be a daunting task, especially in today's fast-paced and competitive market. However, with the right approach and mindset, it is possible to successful...",
@@ -131,12 +138,5 @@
     "excerpt": "Acquiring the first 100 users is a crucial milestone for any SaaS (Software as a Service) business. It not only validates the product but also sets the foundation for future growth...",
     "date": "July 21, 2026",
     "date_str": "20260721-0228"
-  },
-  {
-    "title": "Best AI Productivity Tools for Founders",
-    "file": "blog/post-20260720-0244.html",
-    "excerpt": "As a founder, managing your time effectively is crucial to the success of your business. With the rise of artificial intelligence (AI), numerous productivity tools have emerged to...",
-    "date": "July 20, 2026",
-    "date_str": "20260720-0244"
   }
 ]
