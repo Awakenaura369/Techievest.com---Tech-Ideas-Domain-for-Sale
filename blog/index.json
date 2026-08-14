@@ -1,5 +1,12 @@
 [
   {
+    "title": "How AI is Changing SaaS",
+    "file": "blog/post-20260814-0143.html",
+    "excerpt": "The Software as a Service (SaaS) industry has experienced tremendous growth over the past decade, with an increasing number of companies adopting cloud-based solutions to streamlin...",
+    "date": "August 14, 2026",
+    "date_str": "20260814-0143"
+  },
+  {
     "title": "FinTech Startup Ideas 2026",
     "file": "blog/post-20260813-0146.html",
     "excerpt": "The FinTech industry has experienced tremendous growth in recent years, transforming the way we manage our finances, make transactions, and interact with financial institutions. As...",
@@ -131,12 +138,5 @@
     "excerpt": "The real estate industry has witnessed a significant transformation in recent years, driven by the integration of technology and innovation. PropTech, short for property technology...",
     "date": "July 26, 2026",
     "date_str": "20260726-0233"
-  },
-  {
-    "title": "LegalTech Startup Opportunities",
-    "file": "blog/post-20260725-0226.html",
-    "excerpt": "The legal industry has long been characterized by traditional practices and manual processes. However, with the advent of technology, the sector is undergoing a significant transfo...",
-    "date": "July 25, 2026",
-    "date_str": "20260725-0226"
   }
 ]
