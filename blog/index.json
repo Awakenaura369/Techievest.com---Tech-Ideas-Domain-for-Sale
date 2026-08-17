@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bootstrapping a SaaS in 2026",
+    "file": "blog/post-20260817-0105.html",
+    "excerpt": "Bootstrapping a SaaS (Software as a Service) company can be a daunting task, especially in today's competitive tech landscape. However, with the right strategy and mindset, it's po...",
+    "date": "August 17, 2026",
+    "date_str": "20260817-0105"
+  },
+  {
     "title": "Developer Tools Startup Opportunities",
     "file": "blog/post-20260816-0108.html",
     "excerpt": "The world of developer tools is rapidly evolving, and startup opportunities in this space are becoming increasingly attractive to investors and entrepreneurs alike. With the rise o...",
@@ -131,12 +138,5 @@
     "excerpt": "Acquiring the first customers is a crucial milestone for any SaaS (Software as a Service) business. It validates the product, provides valuable feedback, and generates revenue to f...",
     "date": "July 29, 2026",
     "date_str": "20260729-0225"
-  },
-  {
-    "title": "AI in Real Estate Tech",
-    "file": "blog/post-20260728-0221.html",
-    "excerpt": "The real estate industry has witnessed significant transformations over the years, with technology playing a pivotal role in shaping its future. One of the most exciting developmen...",
-    "date": "July 28, 2026",
-    "date_str": "20260728-0221"
   }
 ]
